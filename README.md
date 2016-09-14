@@ -1,1 +1,2 @@
 # NodeTogetherAMS
+> Hallo Amsterdam : NodeTogether!
