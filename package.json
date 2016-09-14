@@ -1,0 +1,20 @@
+{
+  "name": "NodeTogetherAMS",
+  "version": "1.0.0",
+  "description": "> Hallo Amsterdam : NodeTogether!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentKempers/NodeTogetherAMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentKempers/NodeTogetherAMS/issues"
+  },
+  "homepage": "https://github.com/VincentKempers/NodeTogetherAMS#readme"
+}
